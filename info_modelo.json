@@ -1,0 +1,13 @@
+{
+  "nombre": "Random Forest 2",
+  "tipo_algoritmo": "Machine learning",
+  "metricas_prueba": {
+    "Exactitud": 0.89,
+    "Precisión": 0.892,
+    "Recall": 0.846,
+    "Especificidad": 0.923,
+    "F1": 0.868,
+    "AUC": 0.927
+  },
+  "tipo": "sklearn"
+}
